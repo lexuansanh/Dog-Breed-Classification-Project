@@ -3,6 +3,7 @@
 ### Introduction:
 
 Dog Breed Classification Project is an AI project. This project uses deep learning to predict which dog breed a given image belongs to. Through the entire project, you can learn to use opencv's built-in predictors, build your own deep learning models, or reuse existing powerful models using the transfer learning method, will then combine them to create an algorithm for a **Dog Identification App**. All included in this project.
+See more analysis and discussion with me at blog: [**Is it really hard to write an AI application? Come to Dog Identification App**](https://medium.com/@xuansanh96/is-it-really-hard-to-write-an-ai-application-come-to-dog-identification-app-6788c2708f26)
 
 ![alt-text-1](images/dogpredicted.JPG "Labrador retriever")
 
