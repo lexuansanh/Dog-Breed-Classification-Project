@@ -149,6 +149,8 @@ We use a **dog dataset** and a **human dataset** for this project. You can downl
 
 > *Awesome*, **Try it by your own**
 
+See more analysis and discussion with me at blog: [Is it really hard to write an AI application? Come to Dog Identification App](https://medium.com/@xuansanh96/is-it-really-hard-to-write-an-ai-application-come-to-dog-identification-app-6788c2708f26)
+
 ### **License**
 
 [MIT](https://github.com/lexuansanh)
